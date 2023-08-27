@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @andrea-malvezzi
 - Currently studying IT both in school and by myself
-- 👀 I’m interested in Web Development, both Front-end and Back-end
+- 👀 Still trying to find out what to specialize in!
