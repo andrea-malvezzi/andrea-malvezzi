@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @andrea-malvezzi
 - 🎓 Currently studying Computer Science both in University (Alma Mater Studiorum in Bologna) and by myself
-- 💻 Specializing in Web Development
-- 💼 My [Fiverr profile](http://www.fiverr.com/s/DBVZXmP)
+- 💻 Specializing in Web Development & Automation
 - 🎮 My [personal gaming blog](https://www.thegaminglair.com)
-- 👀 Currently working on a website to learn programming and understand the world that sorrounds us!
