@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @andrea-malvezzi
-- 🎓 Currently studying Computer Science both in University (Alma Mater Studiorum in Bologna) and by myself
+- 🎓 Currently studying Computer Science both in University (Alma Mater Studiorum in Bologna)
 - 💻 Specializing in Web Development & Automation
 - 🎮 My [personal gaming blog](https://www.thegaminglair.com)
+- I like making small and fun project, especially in python or javascript. Feel free to check them out!
