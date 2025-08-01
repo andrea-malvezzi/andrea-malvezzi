@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @andrea-malvezzi;
 - 🎓 Currently studying Computer Science in University (Alma Mater Studiorum in Bologna, in 🇮🇹);
 - I LOVE making small projects in the free time, such as my [infinitely loading website](https://andrea-malvezzi.github.io/infinite-loading-website/) and my simple svelte-based [to-do app](https://andrea-malvezzi.github.io/my-todo-app/)...
-- ... but I also enjoy creating some more complete websites from time to time, such as my 🎮[gaming blog](https://www.thegaminglair.com)!
+- ... but I also enjoy creating some more complete websites from time to time, such as my 🎮[gaming blog](https://www.thegaminglair.com) (currently not available online - domains are costy!)
+- Currently working on an Indie game to learn game development and all the workflow around it, by making my own assets, music, sfxs etc ...
