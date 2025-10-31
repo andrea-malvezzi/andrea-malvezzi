@@ -1,5 +1,15 @@
-- 👋 Hi, I’m @andrea-malvezzi;
-- 🎓 Currently studying Computer Science in University (Alma Mater Studiorum in Bologna, in 🇮🇹);
-- I LOVE making small projects in the free time, such as my [infinitely loading website](https://andrea-malvezzi.github.io/infinite-loading-website/) and my simple svelte-based [to-do app](https://andrea-malvezzi.github.io/my-todo-app/)...
-- ... but I also enjoy creating some more complete websites from time to time, such as my 🎮[gaming blog](https://www.thegaminglair.com) (currently not available online - domains are costy!)
-- Currently working on an Indie game to learn game development and all the workflow around it, by making my own assets, music, sfxs etc ...
+# 👋 Hi, I'm Andrea
+
+I build tools to make my life easier, then share them with the community. Sometimes I also make websites to solve common problems.
+
+## 🔧 Obsidian Plugins
+- **[Smart Summary]()** - Generate hierarchical summaries from document headers
+  - Coming soon
+- **[Smart LaTeX]()** - Fast shortcuts for math and LaTeX note-taking, built mostly for STEM students
+  - Coming soon
+
+## 🌐 Websites
+- **[Is It Crossplay?](https://iscrossplay.com)** - Check if your favorite games support cross-play and cross-progression across platforms
+
+## 👨‍💻 Boring Stuff (About Me)
+CS student in Bologna, Italy. When I'm not automating mundane tasks, I'm gaming, listening to music, or playing volleyball with friends.
