@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andrea
 ICT based in Italy, working on infrastructure, automation and internal tooling for a local leader of the metalworking sector. I build small, practical tools to solve real problems I run into day-to-day - label generation in large batches, environment setup scripts and Obsidian plugins - rather than large frameworks.
 
-I also maintain [iscrossplay](www.iscrossplay.com), a website tracking crossplay, cross-platform and all sorts of news related to games, currently cataloguing over 150 titles.
+I also maintain [iscrossplay](https://iscrossplay.com), a website tracking crossplay, cross-platform and all sorts of news related to games, currently cataloguing over 150 titles.
 
 ## My Open-source projects
 - [qr_gen](https://github.com/andrea-malvezzi/qr_gen) - Generates printer-ready QR code labels in batches carrying the informations of two fixed codes and a variable onem configurable via .csv files. Thought for industrial label printers use.
